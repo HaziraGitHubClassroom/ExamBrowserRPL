@@ -7,7 +7,7 @@ Aplikasi ini dirancang agar siswa dapat mengerjakan ujian berbasis web menggunak
 ## Fitur
 
 1. Scan URL terenkripsi dengan QR Code
-2. Aktivitas ujian tidak bisa dibuka bersamaan dengan aplikasi lain karena aplikasi di pin.
+2. Aktivitas ujian tidak bisa dibuka bersamaan dengan aplikasi lain karena aplikasi dipin.
 3. Enkripsi dengan AES 128 bits
 
 
