@@ -1,14 +1,14 @@
 
 # Mobile Exam Browser
 
-Aplikasi ini dirancang agar siswa dapat mengerjakan ujian berbasis web menggunakan ponsel pintar android. 
+Aplikasi ini dirancang agar siswa dapat mengerjakan ujian berbasis web menggunakan ponsel pintar android.
 
 
 ## Fitur
 
 1. Scan URL terenkripsi dengan QR Code
-2. Aktivitas ujian tidak bisa dibuka bersamaan dengan aplikasi lain
-3. Enkripsi dengan AES 128 bits 
+2. Aktivitas ujian tidak bisa dibuka bersamaan dengan aplikasi lain karena aplikasi di pin.
+3. Enkripsi dengan AES 128 bits
 
 
 ## Screenshots
